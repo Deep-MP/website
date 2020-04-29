@@ -8,7 +8,7 @@ welcome to join us. We need you.
 email:deepmp.cn@gamil.com  
 
 ### References
-[paperswithcode.com](www.paperswithcode.com)  
-[github.com](www.github.com)  
-[semanticscholar.org](www.semanticscholar.org)  
-[arxiv.org](www.arxiv.org)  
+[paperswithcode.com](https://paperswithcode.com)  
+[github.com](https://github.com/)  
+[semanticscholar.org](https://www.semanticscholar.org/)  
+[arxiv.org](https://arxiv.org)  
