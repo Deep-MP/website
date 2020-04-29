@@ -4,11 +4,11 @@ the website shows majority items which is consist of paper, code, pre-trained mo
 
 
 ### Cooperation
-welcome to join us. We need you. 
-email:deepmp.cn@gamil.com
+welcome to join us. We need you.  
+email:deepmp.cn@gamil.com  
 
 ### References
-[paperswithcode.com](paperswithcode.com)
-[github.com](github.com)
-[semanticscholar.org](semanticscholar.org)
-[arxiv.org](arxiv.org)
+[paperswithcode.com](paperswithcode.com)  
+[github.com](github.com)  
+[semanticscholar.org](semanticscholar.org)  
+[arxiv.org](arxiv.org)  
