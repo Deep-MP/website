@@ -1,5 +1,5 @@
 # Deep-MP(Deep Learning: Models and Papers) 
-### Deep-MP is a public project using vue, apache, php, mysql.Please visit our mainpage:[deepmp.com](http://deepmp.com)  
+### Deep-MP is a public project using vue, apache, php, mysql.Please visit our mainpage:[deepmp.com](http://deepmp.com/dashboard/)  
 the website shows majority items which is consist of paper, code, pre-trained model, dataset.
 
 
